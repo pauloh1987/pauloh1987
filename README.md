@@ -1,16 +1,30 @@
-## Hi there 👋
+ 👋 Olá! Eu sou o Paulo Marques
 
-<!--
-**pauloh1987/pauloh1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Front-End Júnior | Formado em ADS  
+🚀 Estudando Full Stack JavaScript na Onebitcode  
+📱 Foco em aplicações com React.js, Firebase e projetos práticos
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 💼 Projetos em destaque
+
+- 🔧 [HouseFix](https://github.com/pauloh1987/housefix)  
+  Plataforma de gestão de manutenção residencial com React e Firebase
+
+- 🌍 [Tour Recife](https://github.com/pauloh1987/tour-recife-web)  
+  Aplicativo turístico com roteiros personalizados em React Native
+
+- 🧾 [Tributos Newmed](https://github.com/pauloh1987/tributos-newmed)  
+  Calculadora tributária desenvolvida para uso interno da empresa
+
+---
+
+🛠️ Tecnologias que utilizo
+
+React.js • JavaScript • Firebase • HTML • CSS • Git • Figma
+
+---
+
+📫 Contato
+[LinkedIn][https://www.linkedin.com/in/paulo-hmarques-dev/)
+📁 Portfólio: [github.com/pauloh1987](https://github.com/pauloh1987)
