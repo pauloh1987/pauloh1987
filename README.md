@@ -39,6 +39,6 @@ React.js • JavaScript • Firebase • HTML • CSS • Git • Figma
 
 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/paulo-henrique-dev/)
+- [LinkedIn](https://www.linkedin.com/in/paulo-hmarques-dev/)
 - 📁 [Portfólio / GitHub](https://github.com/pauloh1987)
 
